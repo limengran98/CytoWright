@@ -1,0 +1,10 @@
+{
+  "credential_env_files": [],
+  "endpoints": {
+    "default": {
+      "base_url": "https://api.example.org/v1",
+      "api_key_env": "CYTOWRIGHT_LLM_API_KEY",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    }
+  }
+}

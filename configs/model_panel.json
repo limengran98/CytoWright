@@ -1,0 +1,12 @@
+{
+  "default": {
+    "kind": "openai_compatible",
+    "provider_family": "deepseek",
+    "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "local_endpoint_id": "default",
+    "base_url_env": "CYTOWRIGHT_LLM_BASE_URL",
+    "api_key_env": "CYTOWRIGHT_LLM_API_KEY",
+    "stream": true,
+    "role": "discovery_backend"
+  }
+}

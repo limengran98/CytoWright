@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.env
+configs/local_endpoints.json
+outputs/
+runs/
+cache/
+data/BBBC036/
+data/BBBC047/
+data/arrays/
